@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="14" y="14" width="8" height="36" rx="4" fill="hsl(226, 80%, 60%)" opacity="0.4"/><rect x="28" y="10" width="8" height="44" rx="4" fill="hsl(226, 80%, 60%)"/><rect x="42" y="18" width="8" height="28" rx="4" fill="hsl(226, 80%, 60%)" opacity="0.7"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>단양 패러글라이딩 체험</title>
+  <rect width="64" height="64" rx="14" fill="hsl(23 65% 36%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(109 68% 61%)" opacity="0.16"/>
+  <g transform="rotate(270 32 32)"><path d="M12 44 26 24l10 12 6-8 8 16Z" fill="hsl(109 68% 61%)"/><path d="M12 44 26 24l10 12" fill="none" stroke="hsl(23 24% 96%)" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/></g>
+</svg>
